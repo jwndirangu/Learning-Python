@@ -8,3 +8,5 @@ Hello there 🖐🏾🖐🏾🖐🏾
 🧶 Set to knit together functions and DataFrames in  Python
 
 🐒 enjoying the cool algorithms
+
+📞 how to reach me jwndirangu@uonbi.ac.ke
