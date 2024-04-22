@@ -9,4 +9,4 @@ Hello there 🖐🏾🖐🏾🖐🏾
 
 🐒 enjoying the cool algorithms
 
-📞 how to reach me jwndirangu@uonbi.ac.ke
+📞 how to reach me jwndirangu@uonbi.ac.ke, https://www.linkedin.com/in/josephine-kagunda-7196ba82/
