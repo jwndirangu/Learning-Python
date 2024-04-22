@@ -1,5 +1,7 @@
+Hello there 🖐🏾🖐🏾🖐🏾
+
 # Learning-Python
-EDA using Python
-add what problem you are solving
-when
-which
+🧞‍♀️ I am currently learning Exploratory Data Analysis with Python
+👢 Taking calculated steps to learn Pandas ans Numpy
+🧶 Set to knit together functions and DataFrames in  Python
+🐒 enjoying the cool algorithms
